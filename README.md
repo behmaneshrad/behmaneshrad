@@ -17,4 +17,4 @@ A free 12-lesson Web3 developer path (wallets → transactions → Solidity → 
 
 ## Work with me
 Fixed-scope back-end modules, dashboards, bots and documentation, paid per milestone. I work under my real name and location and only on platforms whose terms allow it.
-🌐 [alirezabehmaneshrad.ir](https://alirezabehmaneshrad.ir)
+🌐 [alirezabehmaneshrad.ir](https://alirezabehmaneshrad.ir) · [LinkedIn](https://www.linkedin.com/in/behmaneshrad)
